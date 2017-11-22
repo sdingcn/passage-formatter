@@ -1,9 +1,11 @@
 # passage-formatter
 
+This program can be successfully compiled by *The Glorious Glasgow Haskell Compilation System, version 7.10.3*.
+
 Passages on the Linux operating system like this :
 
 ```
-This passage is written to test a program.
+      This passage is written to test a program.
 
 
 
